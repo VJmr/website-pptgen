@@ -1,0 +1,27 @@
+{
+  "name": "website-pptgen",
+  "version": "1.0.0",
+  "description": "generates ppt from a website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VJmr/website-pptgen.git"
+  },
+  "keywords": [
+    "pptx",
+    "webshot",
+    "node"
+  ],
+  "author": "jaganvudumula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VJmr/website-pptgen/issues"
+  },
+  "homepage": "https://github.com/VJmr/website-pptgen#readme",
+  "dependencies": {
+    "webshot": "^0.18.0"
+  }
+}
